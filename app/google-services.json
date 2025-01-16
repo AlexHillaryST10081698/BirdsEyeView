@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1011389931872",
+    "firebase_url": "https://birdseyeviewdatabase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "birdseyeviewdatabase",
+    "storage_bucket": "birdseyeviewdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011389931872:android:0e23fac559bcee326cfe05",
+        "android_client_info": {
+          "package_name": "com.example.birdseyeview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAfwcxwqoFrdUaj6BZUFFGzG3I-Km3PkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

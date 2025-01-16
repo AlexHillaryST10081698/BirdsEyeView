@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/homeicon"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/nav_searchicon"
+            android:icon="@drawable/iconsearch"
+            android:title="Sightings" />
+        <item
+            android:id="@+id/nav_mapicon"
+            android:icon="@drawable/mapicon"
+            android:title="Map" />
+
+    </group>
+    <item android:title="Features">
+
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/nav_cameraicon"
+                    android:icon="@drawable/cameraicon"
+                    android:title="Camera"/>
+
+                <item
+                    android:id="@+id/nav_Settings"
+                    android:icon="@drawable/settingsicon"
+                    android:title="Settings"/>
+            </group>
+        </menu>
+
+    </item>
+    <item android:title="">
+        <menu>
+            <group>
+                <item android:title="">
+
+                </item>
+
+            </group>
+        </menu>
+    </item>
+</menu>
